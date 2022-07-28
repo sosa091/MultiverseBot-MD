@@ -1,5 +1,5 @@
 // ✩｡:*•.─────  NUMERO OWNER  ─────.•*:｡✩ 
-global.owner = ['51993042301', '16477229464', '593993684821', '593968585383', '50495086382', '50497501147', '5218451003894', '5215573031859', '50498965677', '528451003894', '525573031859'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
+global.owner = ['5219531393404', '5219531068159', '5219531627349'] //Agrega primero el numero que será Bot, luego los numeros a ser Owner
 global.mods = [] //Moderadores
 global.prems = [] //Premium, sin Limites en usar el Bot
 
@@ -8,7 +8,7 @@ global.packname = '𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫
 global.author = '@gata_dios'
 
 global.nameowner = '✨ 𝑴𝒖𝒍𝒕𝒊𝒗𝒆𝒓𝒔𝒆𝑩𝒐𝒕-𝑴𝑫 ✨' //Nombre del Bot
-global.numberowner = '51993042301'
+global.numberowner = '5219531393404'
 
 global.instagram = 'https://www.instagram.com/gata_dios' //Enlaces
 global.youtube = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
